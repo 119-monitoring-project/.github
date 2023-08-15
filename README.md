@@ -17,6 +17,9 @@
 - [인프라 구축의 부족](http://www.whosaeng.com/144454)
 - [전국 단위 응급정보망 필요](https://medigatenews.com/news/3802606837)
 
+### 활용 데이터
+- [실시간 응급실 API](https://www.data.go.kr/data/15000563/openapi.do)
+
 ### 주요기능
 
 - 의료기관 검색 (지역, 병원명, …)
