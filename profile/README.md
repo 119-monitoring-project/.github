@@ -20,6 +20,9 @@
 ### 활용 데이터
 - [실시간 응급실 API](https://www.data.go.kr/data/15000563/openapi.do)
 
+### 데이터 아키텍처
+<img width="857" alt="스크린샷 2023-09-05 오전 12 33 02" src="https://github.com/119-monitoring-project/data-pipeline/assets/103482118/f8c4d325-59bc-4127-9c2f-03b239f13eb2">
+
 ### 주요기능
 
 - 의료기관 검색 (지역, 병원명, …)
@@ -27,5 +30,3 @@
 - 자주 가는 병원 즐겨찾기
 - 응급시설 정보 확인
 - 정보 수정 제안
-
-## 웹사이트 링크
