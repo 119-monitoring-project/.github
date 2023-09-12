@@ -31,4 +31,4 @@
 - 정보 수정 제안
 
 ### 시연영상
-https://github.com/119-monitoring-project/data-pipeline/assets/103482118/af881972-9d7d-4fd3-8414-8de0d2f72cc0
+https://github.com/119-monitoring-project/data-pipeline/assets/103482118/5c4c183f-e280-4508-b8ab-7e5f139f1d2f
